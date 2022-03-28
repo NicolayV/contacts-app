@@ -1,0 +1,305 @@
+{
+  "users": [
+    {
+      "username": "user",
+      "password": "123"
+    },
+    {
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "username": "nicolay",
+      "password": "123"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Samuel Gerhold435",
+      "phone": "1-550-593-8918 x1225",
+      "id": 43
+    },
+    {
+      "name": "Colleen Labadie Sr.",
+      "phone": "525-262-5860",
+      "id": 44
+    },
+    {
+      "name": "Kara Sanford DDS234",
+      "phone": "1-538-673-9425",
+      "id": 45
+    },
+    {
+      "id": 46,
+      "name": "Iris Schowalter",
+      "phone": "1-972-846-4992 x27220",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 49,
+      "name": "Lena Hauck",
+      "phone": "976-844-8102",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 50,
+      "name": "Rebecca Gaylord",
+      "phone": "386.278.8873 x936",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 51,
+      "name": "Luis Moen",
+      "phone": "(444) 576-6976 x8036",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 54,
+      "name": "Carole Koss",
+      "phone": "(444) 527-6660 x01933",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 55,
+      "name": "Nina Boyle",
+      "phone": "(807) 868-7914 x72069",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 56,
+      "name": "Dr. Eva O'Kon",
+      "phone": "(266) 596-5548 x467",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 57,
+      "name": "Sylvester Rutherford",
+      "phone": "913.978.7714",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 59,
+      "name": "Herman Bauch",
+      "phone": "786.218.8920 x47840",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 60,
+      "name": "Alexis Deckow",
+      "phone": "821-426-3619 x169",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 61,
+      "name": "Diane Dibbert",
+      "phone": "1-865-540-5455 x900",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 63,
+      "name": "Jacquelyn O'Reilly",
+      "phone": "1-415-304-0870",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 64,
+      "name": "Bessie Pollich",
+      "phone": "525.825.6680",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 66,
+      "name": "Terence Wilkinson",
+      "phone": "(975) 591-7319 x716",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "name": "Vickie Durgan PhD1",
+      "phone": "618.400.50",
+      "id": 68
+    },
+    {
+      "id": 69,
+      "name": "Krystal Hermiston",
+      "phone": "937-867-3405 x104",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 70,
+      "name": "Horace Jacobi",
+      "phone": "403.475.5551 x3026",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 71,
+      "name": "Tommy Moen PhD",
+      "phone": "(600) 487-0453 x2902",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 72,
+      "name": "Susan Bins",
+      "phone": "861.243.1167 x36189",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 73,
+      "name": "Charlotte Sporer",
+      "phone": "392.703.0728 x62553",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 74,
+      "name": "Lela Legros",
+      "phone": "(936) 569-9705 x7861",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 75,
+      "name": "Darren Klein",
+      "phone": "472.471.7573 x9296",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 76,
+      "name": "Gerard Boyle",
+      "phone": "859-866-1671 x46178",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 77,
+      "name": "Eleanor Sporer PhD",
+      "phone": "220.468.5973 x9119",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 78,
+      "name": "Bridget Mosciski",
+      "phone": "213.388.0211 x30968",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 79,
+      "name": "Jo Witting",
+      "phone": "645.367.6198 x24669",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 80,
+      "name": "Bertha Rempel",
+      "phone": "1-928-773-6998",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 81,
+      "name": "Lena Beahan",
+      "phone": "889.776.9718",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 82,
+      "name": "Sherry Ryan",
+      "phone": "283-329-6503",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 83,
+      "name": "Eileen Beatty",
+      "phone": "217.609.1297 x14023",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 84,
+      "name": "Edna Cummerata",
+      "phone": "1-901-641-6498 x0240",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 85,
+      "name": "Peggy Lehner",
+      "phone": "389-851-2845",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 86,
+      "name": "Winston McGlynn",
+      "phone": "885-971-5668",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 87,
+      "name": "Ann Green",
+      "phone": "829-509-6388",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 88,
+      "name": "Jaime Kemmer",
+      "phone": "776.548.3617 x16297",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 89,
+      "name": "Antoinette Friesen",
+      "phone": "913-777-2520",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 90,
+      "name": "Lori Koch MD",
+      "phone": "1-364-486-9164 x40780",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 91,
+      "name": "Jessie Marvin",
+      "phone": "878.924.1441 x4191",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 92,
+      "name": "Gilberto Jacobs II",
+      "phone": "905.515.4946",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 93,
+      "name": "Cynthia Stamm Sr.",
+      "phone": "1-600-296-6522 x48553",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 94,
+      "name": "Agnes Cassin",
+      "phone": "883.912.3307",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 95,
+      "name": "Stella Conn",
+      "phone": "688-463-5351 x74495",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "id": 96,
+      "name": "Herman McGlynn",
+      "phone": "631-887-0004 x7002",
+      "creator": "fdsfdsfser23142sdffs"
+    },
+    {
+      "name": "engineer",
+      "phone": "(978) 912-323",
+      "id": 97
+    },
+    {
+      "name": "3213",
+      "phone": "(978) 914-12312",
+      "id": 98
+    },
+    {
+      "name": "Maria Crist",
+      "phone": "(234) 324-32434",
+      "id": 99
+    }
+  ]
+}
